@@ -1,0 +1,11 @@
+Measure,Count
+IGC files inventoried,992
+Files with an I record,978
+Files with at least one B record,978
+Files with valid B records,978
+Files containing invalid B records,213
+Files missing flight date,667
+Files missing glider type,14
+Files missing recorder type,14
+Files missing pressure-sensor metadata,14
+Files with parse errors,14
