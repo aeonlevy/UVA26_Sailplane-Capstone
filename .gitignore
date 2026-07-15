@@ -1,0 +1,5 @@
+
+data/wgc/
+*.tar
+.DS_Store
+.ipynb_checkpoints/
