@@ -1,0 +1,13 @@
+Measure,Count
+Candidate-event rows,52
+Unique event IDs,52
+Duplicate event IDs,0
+Events missing aircraft type,0
+Events missing start altitude,0
+Events missing start location,0
+Events missing vertical response,1
+Events with incomplete event context,3
+Events with ENL evidence,34
+Events with MOP evidence,18
+Events with RPM evidence,0
+Events with no motor-evidence flag,0
